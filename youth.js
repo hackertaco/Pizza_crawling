@@ -1,6 +1,5 @@
 const { chromium } = require('playwright')
 const fs = require('fs')
-const { SIGKILL } = require('constants')
 async function init(){
     const browser = await chromium.launch({
         headless: false,
