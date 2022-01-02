@@ -1,50 +1,14 @@
 # Pizza_crawling
 ## 피자 브랜드 목록
 
-- 7번가 피자 (토핑이 이미지임)
-
 - 청년 피자 (완료)
 
-유로코 피자
+- 자가제빵 선명희피자 (토핑 정보 외 다른 정보 없음 https://handpizza.co.kr/html/menu_2.html?menu_sca=2&#menu)
 
-네오피자
+빨간모자피자 http://www.redcappizza.com/menu/menu_view.jsp?pdid=124&cc=1&tmp=1
 
-반올림피자샵
+피자에땅 https://www.pizzaetang.com/order/orderList.asp?GroupId=PRM1&Classid=01&deliveryindex=0&cookie=Y
 
-피자브라더스
+빅스타피자 http://www.bigstarpizza.co.kr/page/m_view68 영양성분 정봏없음
 
-자가제빵 선명희피자
-
-돼지게티
-
-미뜨레피자
-
-도시피자
-
-랜돌프 뉴욕 페페로니
-
-59쌀피자
-
-피자나라 치킨공주
-
-빨간모자피자
-
-프레드피자
-
-피자마루
-
-긱스피자
-
-트라토리아피자&파스타
-
-폭풍토핑 피자스톰
-
-피자에땅
-
-빅스타피자
-
-임실치즈피자
-
-피자헤븐
-
-뽕뜨락피자
+뽕뜨락피자 https://www.bbongdderak.com/bbs/board.php?bo_table=11&wr_id=138
